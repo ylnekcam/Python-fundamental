@@ -1,0 +1,10 @@
+pypi.org
+this website use for reusing modules or other projects and packages
+how install packages in pypi
+
+search for the package and it will show how to install it
+
+pip for installing packages
+
+sample
+pip install openpyxl
